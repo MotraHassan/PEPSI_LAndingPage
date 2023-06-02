@@ -1,2 +1,2 @@
-# PEPSI_LAndingPage
+# PEPSI_LandingPage
 HTML CSS
